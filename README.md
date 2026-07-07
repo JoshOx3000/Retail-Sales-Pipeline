@@ -1,6 +1,7 @@
 # Retail-Sales-Pipeline
 Simple ETL (Extract, Transform, Load) data pipeline built using MySQL and Vanilla SQL
 
+Open to work with others  LinkedIn: https://www.linkedin.com/in/joshua-oxner-615074107/
 
 MySQL Retail Sales Data Pipeline
 Project Overview
