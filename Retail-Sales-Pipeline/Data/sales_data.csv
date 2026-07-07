@@ -1,0 +1,7 @@
+sale_id,customer_name,product,quantity,unit_price,sale_date
+1,John Smith,Laptop,1,1200,01/01/2025
+2, john smith ,laptop,2,1200,01/02/2025
+3,Mary Johnson,Phone,,700,01/03/2025
+4,Bob Lee,Tablet,1,450,13/01/2025
+5,Alice Brown,Laptop,-1,1200,01/05/2025
+5,Alice Brown,Laptop,-1,1200,01/05/2025
